@@ -1,4 +1,4 @@
-# Hi there! I'm [Matheus Pugliese] 👋
+# Hi there! I'm Matheus Pugliese 👋
 
 I am a **Full-Stack Developer & SQL Database Specialist**. I enjoy building highly efficient backend structures, designing robust relational databases, and crafting clean, responsive user interfaces. 
 
@@ -29,8 +29,8 @@ I leverage advanced database architectures, query tuning, and modern web framewo
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[matheuspugliese]&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[matheuspugliese]&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuspugliese&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspugliese&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
 ---
@@ -45,8 +45,8 @@ I leverage advanced database architectures, query tuning, and modern web framewo
 
 ### 📩 Connect with me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[matheus.pugliese8@gmail.com])
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)]([https://www.upwork.com/freelancers/~011cdfca65bbd4dc43])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.pugliese8@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011cdfca65bbd4dc43)
 
 ---
 *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
