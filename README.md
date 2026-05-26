@@ -1,23 +1,52 @@
-Hi 👋 My name is Matheus Pugliese
-=================================
+# Hi there! I'm [Matheus Pugliese] 👋
 
-Front-End UI Developer
-----------------------
+I am a **Full-Stack Developer & SQL Database Specialist**. I enjoy building highly efficient backend structures, designing robust relational databases, and crafting clean, responsive user interfaces. 
 
-Coding for 4 years, developing and styling fully responsive and automatized interfaces with a clean and friendly code
+I leverage advanced database architectures, query tuning, and modern web frameworks to deliver high-performance applications.
 
-*   🌍  I'm based in Brazil, Bahia
-*   ✉️  You can contact me at [matheus.pugliese8@gmail.com](mailto:matheus.pugliese8@gmail.com)
-*   🧠  I'm learning Swift - Mobile development
-*   🤝  I'm open to collaborating on any project that can expand my knowledge### Skills<p align="left">
-                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-                                <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-                                <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-                                <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-                                <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-                    </p>
-                    
-               
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 🗄️ Database & Backend
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[matheuspugliese]&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[matheuspugliese]&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
+
+---
+
+### 🎯 What I Do
+* 🗄️ **Database Architecture**: Setting up clean, normalized relational database schemas.
+* 🚀 **Query Tuning**: Optimizing slow SQL queries, building efficient indexing strategies, and writing views, functions, and stored procedures.
+* 🌐 **Full-Stack Applications**: Developing secure, fast web apps using React/Next.js and Node.js.
+* 🤖 **Automation**: Creating Python scripts for data collection, web scraping, and API integrations.
+
+---
+
+### 📩 Connect with me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[matheus.pugliese8@gmail.com])
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)]([https://www.upwork.com/freelancers/~011cdfca65bbd4dc43])
+
+---
+*“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
